@@ -15,3 +15,4 @@ def somaP(lista):
 numero = []
 sorteio(numero)
 somaP(numero)
+print("")

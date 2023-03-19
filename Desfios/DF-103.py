@@ -7,3 +7,4 @@ def jogador(jogdor="<Desconhecido>",gols="0"):
 joga = str(input("Nome do jogador: "))
 gols = str(input("Numeros de gols: "))
 jogador(jogdor=joga,gols=gols)
+print("")

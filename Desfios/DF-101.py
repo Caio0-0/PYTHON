@@ -9,3 +9,4 @@ def voto(n):
         print("NÃO VOTO.")
 na = int(input("Ano de nascimento: "))
 voto(na)
+print("")

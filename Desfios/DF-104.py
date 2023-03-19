@@ -10,3 +10,4 @@ def leiaInt(msg):
     return valor
 n = leiaInt("Digite um numero: ")
 print(f"O numero que você digitou foi {n}")
+print("")

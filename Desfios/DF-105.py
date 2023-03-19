@@ -13,3 +13,4 @@ def notas(*n,sit=False):
             nota["situação"] = "RUIM"
     print(nota)
 resp = notas(2,2,2,10,sit=True)
+print("")

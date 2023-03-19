@@ -8,3 +8,4 @@ def fatorial(n,show=False):
     print(f)
 numero = int(input("Digite um numero:"))
 fatorial(numero,show=True)
+print("")
