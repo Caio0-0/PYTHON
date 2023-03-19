@@ -1,0 +1,5 @@
+nome = str(input("Escreva seu nome:"))
+dividir1 = nome.split() 
+print("ola ,um prazer em te conhecer!")
+print("seu primeiro nome é: {}".format(dividir1[0]))
+print("seu segundo nome é: {}".format(dividir1[len(dividir1)-1]))
